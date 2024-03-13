@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input" type="id">1300000</item>
+    <item name="output" type="id">1300000</item>
+    <item name="AC" type="id">1300000</item>
+    <item name="thapphan" type="id">1300000</item>
+    <item name="Delete" type="id">1300000</item>
+    <item name="off" type="id">1300000</item>
+    <item name="daucong" type="id">1300000</item>
+    <item name="dautru" type="id">1300000</item>
+    <item name="phepnhan" type="id">1300000</item>
+    <item name="phepchia" type="id">1300000</item>
+    <item name="result" type="id">1300000</item>
+    <item name="num0" type="id">1300000</item>
+    <item name="num1" type="id">1300000</item>
+    <item name="num2" type="id">1300000</item>
+    <item name="num3" type="id">1300000</item>
+    <item name="num4" type="id">1300000</item>
+    <item name="num5" type="id">1300000</item>
+    <item name="num6" type="id">1300000</item>
+    <item name="num7" type="id">1300000</item>
+    <item name="num8" type="id">1300000</item>
+    <item name="num9" type="id">1300000</item>
+    <item name="iptemp" type="id">1300000</item>
+</resources>
